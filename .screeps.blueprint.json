@@ -1,0 +1,7 @@
+{
+  "email": "<EMAIL>",
+  "token": "<TOKEN>",
+  "branch": "default",
+  "ptr": false,
+  "privateServerFilePath": "./publish"
+}
