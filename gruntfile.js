@@ -28,7 +28,7 @@ module.exports = function(grunt) {
         expand: true,
         cwd: 'dist/',
         src: '**/*.js',
-        dest: path.normalize(config.privateServerFilePath),
+        dest: path.normalize(config.pathToLocalFiles),
         flatten: true,
         options: {
           process: function(content, srcpath) {

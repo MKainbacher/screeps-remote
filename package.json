@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "transpile": "tsc",
-    "publish": "grunt",
-    "publish:private": "grunt private",
+    "publish": "grunt private",
     "help": "grunt --help"
   },
   "repository": {
